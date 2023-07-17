@@ -1,1 +1,7 @@
-This is a movie recommendation system that suggests movies to users based on their preferences. The system utilizes three models: a decision tree classifier, a random forest classifier, and a gradient boosting classifier. These models are trained on a dataset of movies and user ratings. The predictions from each model are combined using an ensemble model that uses the majority voting rule to generate a final recommendation. The performance of the model can be validated using a separate validation set or by implementing cross-validation.
+Title: Movie Recommendation System
+
+- Recommends movies to users based on their preferences
+- Three models utilized for predictions: decision tree classifier, random forest classifier, and gradient boosting classifier
+- Models trained on a dataset of movies and user ratings
+- Ensemble model used to combine the output from each model using majority voting rule to generate final recommendation
+- Model performance can be validated using a separate validation set or cross-validation.
